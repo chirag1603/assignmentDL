@@ -5,6 +5,7 @@ To set the number of nodes on the cluster edit the value of count (which is 3 as
 
 the created cluster as of now will be accessible by public ip-address_node:9200 , then using the credentials and password
 ============Enabled Feature=================
+
 3 node cluster
 capacity to inclease the nodes with count variable
 ============Missing features================
