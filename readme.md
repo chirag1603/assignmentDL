@@ -13,6 +13,7 @@ capacity to inclease the nodes with count variable
 
 
 ============Missing features================
+
 Securing communication between the nodes using SSL certificates 
 
 ref: https://www.elastic.co/guide/en/elasticsearch/reference/current/configuring-tls.html
