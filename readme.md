@@ -1,6 +1,6 @@
 These Terraform scripts will create a elastic search cluster of 3 node of type m3.medium 
 
-default username: elastic , password: change me 
+default username: elastic , password: changeme 
 
 To set the number of nodes on the cluster edit the value of count (which is 3 as of now ) elasticsearch-instance.tf
 
