@@ -5,6 +5,7 @@ default username: elastic , password: changeme
 To set the number of nodes on the cluster edit the value of count (which is 3 as of now ) elasticsearch-instance.tf
 
 the created cluster as of now will be accessible by public ip-address_node:9200 , then using the credentials and password
+
 ============Enabled Feature=================
 
 3 node cluster
